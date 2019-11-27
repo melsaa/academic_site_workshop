@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Cognitive Computing 2019 Final Project
+title: Optical Music Recognition
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -9,7 +9,7 @@ owner:
   name: Maria Elsa
   avatar: bio-photo.jpg
   bio: "A computer scientist, researcher, dreamer."
-  email: laderast@ohsu.edu
+  email: r08922166@ntu.edu.tw
   # Do not include the @ symbol in your Twitter username
   linkedin: #username
   github: melsaa
